@@ -1,4 +1,4 @@
-Imagehere
+![Poppy](https://raw.githubusercontent.com/WolfHex/Poppy/main/Poppy.png)
 # Poppy
 
 ## ❓ What Is Poppy?
