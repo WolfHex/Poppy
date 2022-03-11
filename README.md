@@ -1,7 +1,7 @@
-### Imagehere
+Imagehere
 # Poppy
 
 ## ❓ What Is Poppy?
-### Imagehere
+Imagehere
 
 Poppy is a Dark Modern UI developed in C# WinForms. 
