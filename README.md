@@ -14,7 +14,9 @@ Smooth Borders
 RJCode Tools and Krypton.
 
 ### 🖼️ Preview
-Images
+![Poppy](https://raw.githubusercontent.com/WolfHex/Poppy/main/screen1.png)
+![Poppy](https://raw.githubusercontent.com/WolfHex/Poppy/main/screen2.png)
+![Poppy](https://raw.githubusercontent.com/WolfHex/Poppy/main/screen3.png)
 
 
 ### ⬆️ How To Import?
