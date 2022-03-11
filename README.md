@@ -4,9 +4,11 @@
 Poppy is a Dark Modern UI developed in C# WinForms. 
 
 ## ❗Features
-### Custom Menu
-### Draggable Animated Window and Sizable
-### Smooth Borders
+```
+Custom Menu
+Draggable Animated Window and Sizable
+Smooth Borders
+```
 
 ### 📕3rd Part Stuff Used
 RJCode Tools and Krypton.
